@@ -1,2 +1,5 @@
-# random-fact-2026-01-21T06-22-20.455Z-970random-fact-2026-01-21T06-22-20.455Z-970
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+The sentence "the quick brown fox jumps over the lazy dog" uses every letter in the english language
+
+*Generated on 2026-01-21T06:22:21.894Z*
